@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
 @section('content')
-    <marcas-component></marcas-component>
+    <veiculos-component></veiculos-component>
 @endsection
 
